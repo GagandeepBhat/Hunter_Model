@@ -1,0 +1,9 @@
+# Blender autosaves & temp
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+*.tmp
+
+# OS junk
+.DS_Store
